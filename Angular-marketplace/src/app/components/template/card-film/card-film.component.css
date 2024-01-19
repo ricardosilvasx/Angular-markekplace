@@ -1,0 +1,70 @@
+.mat-card-container {
+    max-width: 400px;
+    align-items: stretch;
+    display: inline-flex;
+    flex-direction: column-reverse;
+    margin-top: 15px;
+    padding: 30px;
+  
+}
+
+.card-film {
+    width: 400px;
+    height: 80%;
+    align-items: stretch;
+    
+}
+
+
+.mat-card-title h2 {
+    text-align: center;
+    display: inline-block;
+    flex-direction: column;
+
+}
+
+.card-content {
+    width: 400px;
+    height: 80%;
+    align-items: stretch;
+    text-align: center;
+    padding: 5px;
+   
+}
+
+.card-content img {    
+    width: 200px;
+    height: 100%;
+    opacity: .8;
+    align-items: stretch;
+    transition: .2s;
+  
+}
+
+.card-content img {
+    width: 200px;
+    height: 100%;
+    opacity: 1;
+    flex-direction: column;
+}
+
+.mat-card-text{
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+
+}
+
+.mat-card-title{
+    text-align: center;
+}
+
+.mat-card-subtitle{
+    text-align: center;
+}
+
+.card-description { 
+    text-align: center;
+    
+   
+}

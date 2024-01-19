@@ -1,0 +1,24 @@
+
+.mat-card-container{
+    display: flex;
+    padding-left: 25px;
+    align-items: flex-start;
+    height: 250px;
+    width: 1500px;
+    margin: 25px 25px;
+    overflow: auto;
+}
+.mat-card-title{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+.description{
+    display: flex;
+    padding-left: 25px;
+    align-items: flex-start;
+    height:50px;
+    width: 50%;
+    line-height: 1.5;
+    
+}
