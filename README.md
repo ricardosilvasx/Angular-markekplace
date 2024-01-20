@@ -1,6 +1,6 @@
-# Movie Marketplace
+# Angular Marketplace
 
-Bem-vindo ao Movie Marketplace, um projeto simples de marketplace de filmes desenvolvido utilizando Angular e a biblioteca Angular Material. Este marketplace permite que os usuários escolham filmes de uma lista, adicionem-nos ao carrinho e procedam ao checkout. Durante o checkout, os usuários podem remover filmes do carrinho, se desejarem, e preencher um formulário com informações de nome, endereço e senha para concluir a compra.
+Bem-vindo ao Angular Marketplace, um projeto simples de marketplace de filmes desenvolvido utilizando Angular e a biblioteca Angular Material. Este marketplace permite que os usuários escolham filmes de uma lista, adicionem-nos ao carrinho e procedam ao checkout. Durante o checkout, os usuários podem remover filmes do carrinho, se desejarem, e preencher um formulário com informações de nome, endereço e senha para concluir a compra.
 
 ## Funcionalidades
 
